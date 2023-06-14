@@ -1,0 +1,12 @@
+#currency-select {
+    background-color: rgb(137, 210, 142);
+    color: #fff;
+    padding: 0.6rem 0.4rem;
+    border-radius: 0.5rem;
+    border: none;
+}
+
+.select-items:hover {
+    position: absolute;
+    background-color: aliceblue;
+}
